@@ -14,12 +14,13 @@ I like the whole stack of a product — the pixels, the code, and the little det
 
 ## Stuff I've built 🛠️
 
-- **[sync-tray](https://github.com/mthines/sync-tray)** ⭐ 39 — Native macOS menu bar app for Google Drive-style background folder sync, powered by rclone. Two-way sync, live progress from JSON logs, kext-free NFS mounts, and a Finder extension for offline files. SwiftUI, and honestly a quite fun one to build.
-- **[lorekit](https://github.com/mthines/lorekit)** ⭐ 13 — Free, open source, local & remote persistent memory for your AI coding agents. Your agent finally remembers the lesson it learned yesterday.
-- **[agent-skills](https://github.com/mthines/agent-skills)** ⭐ 12 — My personal collection of skills for AI coding assistants — code review, DX/UX analysis, debugging, and a bunch of workflow glue.
-- **[gw-tools](https://github.com/mthines/gw-tools)** ⭐ 8 — Git worktree tools. Because juggling branches shouldn't feel like a magic trick.
-- **[react-native-font-face](https://github.com/mthines/react-native-font-face)** ⭐ 6 — CSS-style `@font-face` for React Native, made easy.
-- **[mainline](https://github.com/mthines/mainline)** ⭐ 3 — Lightweight native macOS menu bar app that pings you about your GitHub pull requests. Swift, tiny, stays out of your way.
+- **[sync-tray](https://github.com/mthines/sync-tray)** ⭐ — Native macOS menu bar app for Google Drive-style background folder sync, powered by rclone. Two-way sync, live progress from JSON logs, kext-free NFS mounts, and a Finder extension for offline files. SwiftUI, and honestly a quite fun one to build.
+- **[lorekit](https://github.com/mthines/lorekit)** ⭐ — Free, open source, local & remote persistent memory for your AI coding agents. Your agent finally remembers the lesson it learned yesterday.
+- **[agent-skills](https://github.com/mthines/agent-skills)** ⭐ — My personal collection of skills for AI coding assistants — code review, DX/UX analysis, debugging, and a bunch of workflow glue.
+- **[gw-tools](https://github.com/mthines/gw-tools)** ⭐ — Git worktree tools. Because juggling branches shouldn't feel like a magic trick.
+- **[mainline](https://github.com/mthines/mainline)** ⭐ — Lightweight native macOS menu bar app that pings you about your GitHub pull requests. Swift, tiny, stays out of your way.
+
+- **[react-native-font-face](https://github.com/mthines/react-native-font-face)** ⭐ — CSS-style `@font-face` for React Native, made easy.
 
 ---
 
