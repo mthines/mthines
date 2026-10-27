@@ -19,6 +19,7 @@ I like the whole stack of a product — the pixels, the code, and the little det
 - **[agent-skills](https://github.com/mthines/agent-skills)** ⭐ — My personal collection of skills for AI coding assistants — code review, DX/UX analysis, debugging, and a bunch of workflow glue.
 - **[gw-tools](https://github.com/mthines/gw-tools)** ⭐ — Git worktree tools. Because juggling branches shouldn't feel like a magic trick.
 - **[mainline](https://github.com/mthines/mainline)** ⭐ — Lightweight native macOS menu bar app that pings you about your GitHub pull requests. Swift, tiny, stays out of your way.
+- **[reaper-mcp](https://github.com/mthines/reaper-mcp)** ⭐ — An MCP server for [Reaper](https://www.reaper.fm/) so you can operate your DAW using an LLM like Claude
 
 - **[react-native-font-face](https://github.com/mthines/react-native-font-face)** ⭐ — CSS-style `@font-face` for React Native, made easy.
 
